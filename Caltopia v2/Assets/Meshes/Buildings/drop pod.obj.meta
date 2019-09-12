@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: b6e904165aa9e4d58ae3db899a9b57c0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: g_aperture_blade1_aperture_blade1
+    100004: g_aperture_blade2_aperture_blade2
+    100006: g_aperture_blade3_aperture_blade3
+    100008: g_aperture_blade4_aperture_blade4
+    100010: g_aperture_blade5_aperture_blade5
+    100012: g_aperture_blade6_aperture_blade6
+    100014: g_aperture_blade7_aperture_blade7
+    100016: g_blade8_aperture_blade8_aperture
+    100018: g_floor_floor
+    100020: g_roof_roof
+    100022: g_walls_walls
+    100024: g_window_bars_window_bars
+    400000: //RootNode
+    400002: g_aperture_blade1_aperture_blade1
+    400004: g_aperture_blade2_aperture_blade2
+    400006: g_aperture_blade3_aperture_blade3
+    400008: g_aperture_blade4_aperture_blade4
+    400010: g_aperture_blade5_aperture_blade5
+    400012: g_aperture_blade6_aperture_blade6
+    400014: g_aperture_blade7_aperture_blade7
+    400016: g_blade8_aperture_blade8_aperture
+    400018: g_floor_floor
+    400020: g_roof_roof
+    400022: g_walls_walls
+    400024: g_window_bars_window_bars
+    2100000: g_aperture_blade1_aperture_blade1Mat
+    2100002: g_aperture_blade2_aperture_blade2Mat
+    2100004: g_aperture_blade3_aperture_blade3Mat
+    2100006: g_aperture_blade4_aperture_blade4Mat
+    2100008: g_aperture_blade5_aperture_blade5Mat
+    2100010: g_aperture_blade6_aperture_blade6Mat
+    2100012: g_aperture_blade7_aperture_blade7Mat
+    2100014: g_blade8_aperture_blade8_apertureMat
+    2100016: g_floor_floorMat
+    2100018: g_roof_roofMat
+    2100020: g_walls_wallsMat
+    2100022: g_window_bars_window_barsMat
+    2300000: g_aperture_blade1_aperture_blade1
+    2300002: g_aperture_blade2_aperture_blade2
+    2300004: g_aperture_blade3_aperture_blade3
+    2300006: g_aperture_blade4_aperture_blade4
+    2300008: g_aperture_blade5_aperture_blade5
+    2300010: g_aperture_blade6_aperture_blade6
+    2300012: g_aperture_blade7_aperture_blade7
+    2300014: g_blade8_aperture_blade8_aperture
+    2300016: g_floor_floor
+    2300018: g_roof_roof
+    2300020: g_walls_walls
+    2300022: g_window_bars_window_bars
+    3300000: g_aperture_blade1_aperture_blade1
+    3300002: g_aperture_blade2_aperture_blade2
+    3300004: g_aperture_blade3_aperture_blade3
+    3300006: g_aperture_blade4_aperture_blade4
+    3300008: g_aperture_blade5_aperture_blade5
+    3300010: g_aperture_blade6_aperture_blade6
+    3300012: g_aperture_blade7_aperture_blade7
+    3300014: g_blade8_aperture_blade8_aperture
+    3300016: g_floor_floor
+    3300018: g_roof_roof
+    3300020: g_walls_walls
+    3300022: g_window_bars_window_bars
+    4300000: g_aperture_blade1_aperture_blade1
+    4300002: g_aperture_blade2_aperture_blade2
+    4300004: g_aperture_blade3_aperture_blade3
+    4300006: g_aperture_blade4_aperture_blade4
+    4300008: g_aperture_blade5_aperture_blade5
+    4300010: g_aperture_blade6_aperture_blade6
+    4300012: g_aperture_blade7_aperture_blade7
+    4300014: g_blade8_aperture_blade8_aperture
+    4300016: g_floor_floor
+    4300018: g_roof_roof
+    4300020: g_walls_walls
+    4300022: g_window_bars_window_bars
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

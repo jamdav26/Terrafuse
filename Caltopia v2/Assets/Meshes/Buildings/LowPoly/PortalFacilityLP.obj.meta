@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 005f8f707ac754474aa89642000be4e1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: WallBase
+    100004: WallBase_BackWall
+    100006: WallBase_ElevatorDock
+    100008: WallBase_FrontWall
+    100010: WallBase_group1_pCube7
+    100012: WallBase_group1_pCube8
+    100014: WallBase_group1_pCube9
+    100016: WallBase_pCube10_group1
+    100018: WallBase_pCube1_WallDetail
+    100020: WallBase_WallDetail_pCube2
+    100022: WallBase_WallDetail_pCube3
+    100024: WallBase_WallDetail_pCube4
+    100026: WallBase_WallDetail_pCube5
+    100028: WallBase_WallDetail_pCube6
+    400000: //RootNode
+    400002: WallBase
+    400004: WallBase_BackWall
+    400006: WallBase_ElevatorDock
+    400008: WallBase_FrontWall
+    400010: WallBase_group1_pCube7
+    400012: WallBase_group1_pCube8
+    400014: WallBase_group1_pCube9
+    400016: WallBase_pCube10_group1
+    400018: WallBase_pCube1_WallDetail
+    400020: WallBase_WallDetail_pCube2
+    400022: WallBase_WallDetail_pCube3
+    400024: WallBase_WallDetail_pCube4
+    400026: WallBase_WallDetail_pCube5
+    400028: WallBase_WallDetail_pCube6
+    2100000: WallBaseMat
+    2100002: WallBase_BackWallMat
+    2100004: WallBase_ElevatorDockMat
+    2100006: WallBase_FrontWallMat
+    2100008: WallBase_group1_pCube7Mat
+    2100010: WallBase_group1_pCube8Mat
+    2100012: WallBase_group1_pCube9Mat
+    2100014: WallBase_pCube10_group1Mat
+    2100016: WallBase_pCube1_WallDetailMat
+    2100018: WallBase_WallDetail_pCube2Mat
+    2100020: WallBase_WallDetail_pCube3Mat
+    2100022: WallBase_WallDetail_pCube4Mat
+    2100024: WallBase_WallDetail_pCube5Mat
+    2100026: WallBase_WallDetail_pCube6Mat
+    2300000: WallBase
+    2300002: WallBase_BackWall
+    2300004: WallBase_ElevatorDock
+    2300006: WallBase_FrontWall
+    2300008: WallBase_group1_pCube7
+    2300010: WallBase_group1_pCube8
+    2300012: WallBase_group1_pCube9
+    2300014: WallBase_pCube10_group1
+    2300016: WallBase_pCube1_WallDetail
+    2300018: WallBase_WallDetail_pCube2
+    2300020: WallBase_WallDetail_pCube3
+    2300022: WallBase_WallDetail_pCube4
+    2300024: WallBase_WallDetail_pCube5
+    2300026: WallBase_WallDetail_pCube6
+    3300000: WallBase
+    3300002: WallBase_BackWall
+    3300004: WallBase_ElevatorDock
+    3300006: WallBase_FrontWall
+    3300008: WallBase_group1_pCube7
+    3300010: WallBase_group1_pCube8
+    3300012: WallBase_group1_pCube9
+    3300014: WallBase_pCube10_group1
+    3300016: WallBase_pCube1_WallDetail
+    3300018: WallBase_WallDetail_pCube2
+    3300020: WallBase_WallDetail_pCube3
+    3300022: WallBase_WallDetail_pCube4
+    3300024: WallBase_WallDetail_pCube5
+    3300026: WallBase_WallDetail_pCube6
+    4300000: WallBase
+    4300002: WallBase_BackWall
+    4300004: WallBase_ElevatorDock
+    4300006: WallBase_FrontWall
+    4300008: WallBase_group1_pCube7
+    4300010: WallBase_group1_pCube8
+    4300012: WallBase_group1_pCube9
+    4300014: WallBase_pCube10_group1
+    4300016: WallBase_pCube1_WallDetail
+    4300018: WallBase_WallDetail_pCube2
+    4300020: WallBase_WallDetail_pCube3
+    4300022: WallBase_WallDetail_pCube4
+    4300024: WallBase_WallDetail_pCube5
+    4300026: WallBase_WallDetail_pCube6
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

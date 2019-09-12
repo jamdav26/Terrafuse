@@ -1,0 +1,1676 @@
+fileFormatVersion: 2
+guid: 1734edb762ea842c7b1b1e09c3916bb8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: base
+    100002: base 1
+    100004: base 10
+    100006: base 11
+    100008: base 12
+    100010: base 13
+    100012: base 14
+    100014: base 15
+    100016: base 2
+    100018: base 3
+    100020: base 4
+    100022: base 5
+    100024: base 6
+    100026: base 7
+    100028: base 8
+    100030: base 9
+    100032: canisters
+    100034: canisters 1
+    100036: canisters 10
+    100038: canisters 11
+    100040: canisters 12
+    100042: canisters 13
+    100044: canisters 14
+    100046: canisters 15
+    100048: canisters 2
+    100050: canisters 3
+    100052: canisters 4
+    100054: canisters 5
+    100056: canisters 6
+    100058: canisters 7
+    100060: canisters 8
+    100062: canisters 9
+    100064: center_cone_lower
+    100066: center_cone_upper
+    100068: cryopod
+    100070: cryopod1
+    100072: cryopod10
+    100074: cryopod11
+    100076: cryopod12
+    100078: cryopod13
+    100080: cryopod14
+    100082: cryopod15
+    100084: cryopod2
+    100086: cryopod3
+    100088: cryopod4
+    100090: cryopod5
+    100092: cryopod6
+    100094: cryopod7
+    100096: cryopod8
+    100098: cryopod9
+    100100: cryopods_lower
+    100102: cryopods_upper
+    100104: doors
+    100106: emblem
+    100108: emblem 1
+    100110: emblem 10
+    100112: emblem 11
+    100114: emblem 12
+    100116: emblem 13
+    100118: emblem 14
+    100120: emblem 15
+    100122: emblem 2
+    100124: emblem 3
+    100126: emblem 4
+    100128: emblem 5
+    100130: emblem 6
+    100132: emblem 7
+    100134: emblem 8
+    100136: emblem 9
+    100138: glass_dome
+    100140: glass_dome 1
+    100142: glass_dome 10
+    100144: glass_dome 11
+    100146: glass_dome 12
+    100148: glass_dome 13
+    100150: glass_dome 14
+    100152: glass_dome 15
+    100154: glass_dome 2
+    100156: glass_dome 3
+    100158: glass_dome 4
+    100160: glass_dome 5
+    100162: glass_dome 6
+    100164: glass_dome 7
+    100166: glass_dome 8
+    100168: glass_dome 9
+    100170: grabby_arms
+    100172: grabby_robot_arms
+    100174: grabby_robot_arms 1
+    100176: grabby_robot_arms 2
+    100178: grabby_robot_arms 3
+    100180: group15
+    100182: group16
+    100184: group17
+    100186: group18
+    100188: group19
+    100190: group20
+    100192: group21
+    100194: group22
+    100196: group24
+    100198: group25
+    100200: group26
+    100202: group27
+    100204: group29
+    100206: group30
+    100208: group31
+    100210: group32
+    100212: group33
+    100214: group34
+    100216: human_sizeref
+    100218: //RootNode
+    100220: metal_parts
+    100222: metal_parts 1
+    100224: metal_parts 10
+    100226: metal_parts 11
+    100228: metal_parts 12
+    100230: metal_parts 13
+    100232: metal_parts 14
+    100234: metal_parts 15
+    100236: metal_parts 2
+    100238: metal_parts 3
+    100240: metal_parts 4
+    100242: metal_parts 5
+    100244: metal_parts 6
+    100246: metal_parts 7
+    100248: metal_parts 8
+    100250: metal_parts 9
+    100252: outer_wall
+    100254: pCone1
+    100256: pCone1 1
+    100258: pCone1 2
+    100260: pCone1 3
+    100262: pCone2
+    100264: pCone2 1
+    100266: pCone2 2
+    100268: pCone2 3
+    100270: pCube10
+    100272: pCube11
+    100274: pCube12
+    100276: pCube12 1
+    100278: pCube12 2
+    100280: pCube12 3
+    100282: pCube14
+    100284: pCube14 1
+    100286: pCube14 2
+    100288: pCube14 3
+    100290: pCube15
+    100292: pCube15 1
+    100294: pCube15 2
+    100296: pCube15 3
+    100298: pCube16
+    100300: pCube16 1
+    100302: pCube16 2
+    100304: pCube16 3
+    100306: pCube17
+    100308: pCube17 1
+    100310: pCube17 2
+    100312: pCube17 3
+    100314: pCube18
+    100316: pCube18 1
+    100318: pCube18 2
+    100320: pCube18 3
+    100322: pCube19
+    100324: pCube19 1
+    100326: pCube19 2
+    100328: pCube19 3
+    100330: pCube20
+    100332: pCube20 1
+    100334: pCube20 2
+    100336: pCube20 3
+    100338: pCube21
+    100340: pCube21 1
+    100342: pCube21 2
+    100344: pCube21 3
+    100346: pCube22
+    100348: pCube22 1
+    100350: pCube22 2
+    100352: pCube22 3
+    100354: pCube24
+    100356: pCube25
+    100358: pCube26
+    100360: pCube27
+    100362: pCube28
+    100364: pCube29
+    100366: pCube30
+    100368: pCube31
+    100370: pCube32
+    100372: pCube33
+    100374: pCube34
+    100376: pCube35
+    100378: pCube36
+    100380: pCube37
+    100382: pCube38
+    100384: pCube39
+    100386: pCube8
+    100388: pCube9
+    100390: pCylinder27
+    100392: pCylinder27 1
+    100394: pCylinder27 2
+    100396: pCylinder27 3
+    100398: pCylinder28
+    100400: pCylinder28 1
+    100402: pCylinder28 2
+    100404: pCylinder28 3
+    100406: pCylinder29
+    100408: pCylinder29 1
+    100410: pCylinder29 2
+    100412: pCylinder29 3
+    100414: pipe_ring_lower
+    100416: pipe_ring_upper
+    100418: pipes
+    100420: pipes 1
+    100422: pipes 10
+    100424: pipes 11
+    100426: pipes 12
+    100428: pipes 13
+    100430: pipes 14
+    100432: pipes 15
+    100434: pipes 16
+    100436: pipes 2
+    100438: pipes 3
+    100440: pipes 4
+    100442: pipes 5
+    100444: pipes 6
+    100446: pipes 7
+    100448: pipes 8
+    100450: pipes 9
+    100452: platform_lower
+    100454: platform_upper
+    100456: polySurface100
+    100458: polySurface101
+    100460: polySurface102
+    100462: polySurface104
+    100464: polySurface16
+    100466: polySurface17
+    100468: polySurface33
+    100470: polySurface93
+    100472: polySurface95
+    100474: polySurface97
+    100476: polySurface98
+    100478: polySurface99
+    100480: pPlane1
+    100482: pPlane10
+    100484: pPlane11
+    100486: pPlane12
+    100488: pPlane13
+    100490: pPlane14
+    100492: pPlane15
+    100494: pPlane16
+    100496: pPlane17
+    100498: pPlane18
+    100500: pPlane19
+    100502: pPlane2
+    100504: pPlane2 1
+    100506: pPlane2 2
+    100508: pPlane20
+    100510: pPlane20 1
+    100512: pPlane20 2
+    100514: pPlane21
+    100516: pPlane21 1
+    100518: pPlane21 2
+    100520: pPlane22
+    100522: pPlane22 1
+    100524: pPlane22 2
+    100526: pPlane22 3
+    100528: pPlane23
+    100530: pPlane23 1
+    100532: pPlane23 2
+    100534: pPlane23 3
+    100536: pPlane3
+    100538: pPlane3 1
+    100540: pPlane3 2
+    100542: pPlane4
+    100544: pPlane5
+    100546: pPlane6
+    100548: pPlane7
+    100550: pPlane8
+    100552: pPlane9
+    100554: pTorus10
+    100556: pTorus11
+    100558: pTorus12
+    100560: pTorus5
+    100562: pTorus9
+    100564: rails_lower
+    100566: rails_upper
+    100568: rubber_seal
+    100570: rubber_seal 1
+    100572: rubber_seal 10
+    100574: rubber_seal 11
+    100576: rubber_seal 12
+    100578: rubber_seal 13
+    100580: rubber_seal 14
+    100582: rubber_seal 15
+    100584: rubber_seal 2
+    100586: rubber_seal 3
+    100588: rubber_seal 4
+    100590: rubber_seal 5
+    100592: rubber_seal 6
+    100594: rubber_seal 7
+    100596: rubber_seal 8
+    100598: rubber_seal 9
+    100600: screen
+    100602: screen 1
+    100604: screen 10
+    100606: screen 11
+    100608: screen 12
+    100610: screen 13
+    100612: screen 14
+    100614: screen 15
+    100616: screen 2
+    100618: screen 3
+    100620: screen 4
+    100622: screen 5
+    100624: screen 6
+    100626: screen 7
+    100628: screen 8
+    100630: screen 9
+    100632: screens
+    100634: stair_rails
+    100636: stair_steps2
+    100638: wall_accents
+    100640: wires
+    400000: base
+    400002: base 1
+    400004: base 10
+    400006: base 11
+    400008: base 12
+    400010: base 13
+    400012: base 14
+    400014: base 15
+    400016: base 2
+    400018: base 3
+    400020: base 4
+    400022: base 5
+    400024: base 6
+    400026: base 7
+    400028: base 8
+    400030: base 9
+    400032: canisters
+    400034: canisters 1
+    400036: canisters 10
+    400038: canisters 11
+    400040: canisters 12
+    400042: canisters 13
+    400044: canisters 14
+    400046: canisters 15
+    400048: canisters 2
+    400050: canisters 3
+    400052: canisters 4
+    400054: canisters 5
+    400056: canisters 6
+    400058: canisters 7
+    400060: canisters 8
+    400062: canisters 9
+    400064: center_cone_lower
+    400066: center_cone_upper
+    400068: cryopod
+    400070: cryopod1
+    400072: cryopod10
+    400074: cryopod11
+    400076: cryopod12
+    400078: cryopod13
+    400080: cryopod14
+    400082: cryopod15
+    400084: cryopod2
+    400086: cryopod3
+    400088: cryopod4
+    400090: cryopod5
+    400092: cryopod6
+    400094: cryopod7
+    400096: cryopod8
+    400098: cryopod9
+    400100: cryopods_lower
+    400102: cryopods_upper
+    400104: doors
+    400106: emblem
+    400108: emblem 1
+    400110: emblem 10
+    400112: emblem 11
+    400114: emblem 12
+    400116: emblem 13
+    400118: emblem 14
+    400120: emblem 15
+    400122: emblem 2
+    400124: emblem 3
+    400126: emblem 4
+    400128: emblem 5
+    400130: emblem 6
+    400132: emblem 7
+    400134: emblem 8
+    400136: emblem 9
+    400138: glass_dome
+    400140: glass_dome 1
+    400142: glass_dome 10
+    400144: glass_dome 11
+    400146: glass_dome 12
+    400148: glass_dome 13
+    400150: glass_dome 14
+    400152: glass_dome 15
+    400154: glass_dome 2
+    400156: glass_dome 3
+    400158: glass_dome 4
+    400160: glass_dome 5
+    400162: glass_dome 6
+    400164: glass_dome 7
+    400166: glass_dome 8
+    400168: glass_dome 9
+    400170: grabby_arms
+    400172: grabby_robot_arms
+    400174: grabby_robot_arms 1
+    400176: grabby_robot_arms 2
+    400178: grabby_robot_arms 3
+    400180: group15
+    400182: group16
+    400184: group17
+    400186: group18
+    400188: group19
+    400190: group20
+    400192: group21
+    400194: group22
+    400196: group24
+    400198: group25
+    400200: group26
+    400202: group27
+    400204: group29
+    400206: group30
+    400208: group31
+    400210: group32
+    400212: group33
+    400214: group34
+    400216: human_sizeref
+    400218: //RootNode
+    400220: metal_parts
+    400222: metal_parts 1
+    400224: metal_parts 10
+    400226: metal_parts 11
+    400228: metal_parts 12
+    400230: metal_parts 13
+    400232: metal_parts 14
+    400234: metal_parts 15
+    400236: metal_parts 2
+    400238: metal_parts 3
+    400240: metal_parts 4
+    400242: metal_parts 5
+    400244: metal_parts 6
+    400246: metal_parts 7
+    400248: metal_parts 8
+    400250: metal_parts 9
+    400252: outer_wall
+    400254: pCone1
+    400256: pCone1 1
+    400258: pCone1 2
+    400260: pCone1 3
+    400262: pCone2
+    400264: pCone2 1
+    400266: pCone2 2
+    400268: pCone2 3
+    400270: pCube10
+    400272: pCube11
+    400274: pCube12
+    400276: pCube12 1
+    400278: pCube12 2
+    400280: pCube12 3
+    400282: pCube14
+    400284: pCube14 1
+    400286: pCube14 2
+    400288: pCube14 3
+    400290: pCube15
+    400292: pCube15 1
+    400294: pCube15 2
+    400296: pCube15 3
+    400298: pCube16
+    400300: pCube16 1
+    400302: pCube16 2
+    400304: pCube16 3
+    400306: pCube17
+    400308: pCube17 1
+    400310: pCube17 2
+    400312: pCube17 3
+    400314: pCube18
+    400316: pCube18 1
+    400318: pCube18 2
+    400320: pCube18 3
+    400322: pCube19
+    400324: pCube19 1
+    400326: pCube19 2
+    400328: pCube19 3
+    400330: pCube20
+    400332: pCube20 1
+    400334: pCube20 2
+    400336: pCube20 3
+    400338: pCube21
+    400340: pCube21 1
+    400342: pCube21 2
+    400344: pCube21 3
+    400346: pCube22
+    400348: pCube22 1
+    400350: pCube22 2
+    400352: pCube22 3
+    400354: pCube24
+    400356: pCube25
+    400358: pCube26
+    400360: pCube27
+    400362: pCube28
+    400364: pCube29
+    400366: pCube30
+    400368: pCube31
+    400370: pCube32
+    400372: pCube33
+    400374: pCube34
+    400376: pCube35
+    400378: pCube36
+    400380: pCube37
+    400382: pCube38
+    400384: pCube39
+    400386: pCube8
+    400388: pCube9
+    400390: pCylinder27
+    400392: pCylinder27 1
+    400394: pCylinder27 2
+    400396: pCylinder27 3
+    400398: pCylinder28
+    400400: pCylinder28 1
+    400402: pCylinder28 2
+    400404: pCylinder28 3
+    400406: pCylinder29
+    400408: pCylinder29 1
+    400410: pCylinder29 2
+    400412: pCylinder29 3
+    400414: pipe_ring_lower
+    400416: pipe_ring_upper
+    400418: pipes
+    400420: pipes 1
+    400422: pipes 10
+    400424: pipes 11
+    400426: pipes 12
+    400428: pipes 13
+    400430: pipes 14
+    400432: pipes 15
+    400434: pipes 16
+    400436: pipes 2
+    400438: pipes 3
+    400440: pipes 4
+    400442: pipes 5
+    400444: pipes 6
+    400446: pipes 7
+    400448: pipes 8
+    400450: pipes 9
+    400452: platform_lower
+    400454: platform_upper
+    400456: polySurface100
+    400458: polySurface101
+    400460: polySurface102
+    400462: polySurface104
+    400464: polySurface16
+    400466: polySurface17
+    400468: polySurface33
+    400470: polySurface93
+    400472: polySurface95
+    400474: polySurface97
+    400476: polySurface98
+    400478: polySurface99
+    400480: pPlane1
+    400482: pPlane10
+    400484: pPlane11
+    400486: pPlane12
+    400488: pPlane13
+    400490: pPlane14
+    400492: pPlane15
+    400494: pPlane16
+    400496: pPlane17
+    400498: pPlane18
+    400500: pPlane19
+    400502: pPlane2
+    400504: pPlane2 1
+    400506: pPlane2 2
+    400508: pPlane20
+    400510: pPlane20 1
+    400512: pPlane20 2
+    400514: pPlane21
+    400516: pPlane21 1
+    400518: pPlane21 2
+    400520: pPlane22
+    400522: pPlane22 1
+    400524: pPlane22 2
+    400526: pPlane22 3
+    400528: pPlane23
+    400530: pPlane23 1
+    400532: pPlane23 2
+    400534: pPlane23 3
+    400536: pPlane3
+    400538: pPlane3 1
+    400540: pPlane3 2
+    400542: pPlane4
+    400544: pPlane5
+    400546: pPlane6
+    400548: pPlane7
+    400550: pPlane8
+    400552: pPlane9
+    400554: pTorus10
+    400556: pTorus11
+    400558: pTorus12
+    400560: pTorus5
+    400562: pTorus9
+    400564: rails_lower
+    400566: rails_upper
+    400568: rubber_seal
+    400570: rubber_seal 1
+    400572: rubber_seal 10
+    400574: rubber_seal 11
+    400576: rubber_seal 12
+    400578: rubber_seal 13
+    400580: rubber_seal 14
+    400582: rubber_seal 15
+    400584: rubber_seal 2
+    400586: rubber_seal 3
+    400588: rubber_seal 4
+    400590: rubber_seal 5
+    400592: rubber_seal 6
+    400594: rubber_seal 7
+    400596: rubber_seal 8
+    400598: rubber_seal 9
+    400600: screen
+    400602: screen 1
+    400604: screen 10
+    400606: screen 11
+    400608: screen 12
+    400610: screen 13
+    400612: screen 14
+    400614: screen 15
+    400616: screen 2
+    400618: screen 3
+    400620: screen 4
+    400622: screen 5
+    400624: screen 6
+    400626: screen 7
+    400628: screen 8
+    400630: screen 9
+    400632: screens
+    400634: stair_rails
+    400636: stair_steps2
+    400638: wall_accents
+    400640: wires
+    2300000: base
+    2300002: base 1
+    2300004: base 10
+    2300006: base 11
+    2300008: base 12
+    2300010: base 13
+    2300012: base 14
+    2300014: base 15
+    2300016: base 2
+    2300018: base 3
+    2300020: base 4
+    2300022: base 5
+    2300024: base 6
+    2300026: base 7
+    2300028: base 8
+    2300030: base 9
+    2300032: canisters
+    2300034: canisters 1
+    2300036: canisters 10
+    2300038: canisters 11
+    2300040: canisters 12
+    2300042: canisters 13
+    2300044: canisters 14
+    2300046: canisters 15
+    2300048: canisters 2
+    2300050: canisters 3
+    2300052: canisters 4
+    2300054: canisters 5
+    2300056: canisters 6
+    2300058: canisters 7
+    2300060: canisters 8
+    2300062: canisters 9
+    2300064: center_cone_lower
+    2300066: center_cone_upper
+    2300068: emblem
+    2300070: emblem 1
+    2300072: emblem 10
+    2300074: emblem 11
+    2300076: emblem 12
+    2300078: emblem 13
+    2300080: emblem 14
+    2300082: emblem 15
+    2300084: emblem 2
+    2300086: emblem 3
+    2300088: emblem 4
+    2300090: emblem 5
+    2300092: emblem 6
+    2300094: emblem 7
+    2300096: emblem 8
+    2300098: emblem 9
+    2300100: glass_dome
+    2300102: glass_dome 1
+    2300104: glass_dome 10
+    2300106: glass_dome 11
+    2300108: glass_dome 12
+    2300110: glass_dome 13
+    2300112: glass_dome 14
+    2300114: glass_dome 15
+    2300116: glass_dome 2
+    2300118: glass_dome 3
+    2300120: glass_dome 4
+    2300122: glass_dome 5
+    2300124: glass_dome 6
+    2300126: glass_dome 7
+    2300128: glass_dome 8
+    2300130: glass_dome 9
+    2300132: human_sizeref
+    2300134: metal_parts
+    2300136: metal_parts 1
+    2300138: metal_parts 10
+    2300140: metal_parts 11
+    2300142: metal_parts 12
+    2300144: metal_parts 13
+    2300146: metal_parts 14
+    2300148: metal_parts 15
+    2300150: metal_parts 2
+    2300152: metal_parts 3
+    2300154: metal_parts 4
+    2300156: metal_parts 5
+    2300158: metal_parts 6
+    2300160: metal_parts 7
+    2300162: metal_parts 8
+    2300164: metal_parts 9
+    2300166: pCone1
+    2300168: pCone1 1
+    2300170: pCone1 2
+    2300172: pCone1 3
+    2300174: pCone2
+    2300176: pCone2 1
+    2300178: pCone2 2
+    2300180: pCone2 3
+    2300182: pCube10
+    2300184: pCube11
+    2300186: pCube12
+    2300188: pCube12 1
+    2300190: pCube12 2
+    2300192: pCube12 3
+    2300194: pCube14
+    2300196: pCube14 1
+    2300198: pCube14 2
+    2300200: pCube14 3
+    2300202: pCube15
+    2300204: pCube15 1
+    2300206: pCube15 2
+    2300208: pCube15 3
+    2300210: pCube16
+    2300212: pCube16 1
+    2300214: pCube16 2
+    2300216: pCube16 3
+    2300218: pCube17
+    2300220: pCube17 1
+    2300222: pCube17 2
+    2300224: pCube17 3
+    2300226: pCube18
+    2300228: pCube18 1
+    2300230: pCube18 2
+    2300232: pCube18 3
+    2300234: pCube19
+    2300236: pCube19 1
+    2300238: pCube19 2
+    2300240: pCube19 3
+    2300242: pCube20
+    2300244: pCube20 1
+    2300246: pCube20 2
+    2300248: pCube20 3
+    2300250: pCube21
+    2300252: pCube21 1
+    2300254: pCube21 2
+    2300256: pCube21 3
+    2300258: pCube22
+    2300260: pCube22 1
+    2300262: pCube22 2
+    2300264: pCube22 3
+    2300266: pCube24
+    2300268: pCube25
+    2300270: pCube26
+    2300272: pCube27
+    2300274: pCube28
+    2300276: pCube29
+    2300278: pCube30
+    2300280: pCube31
+    2300282: pCube32
+    2300284: pCube33
+    2300286: pCube34
+    2300288: pCube35
+    2300290: pCube36
+    2300292: pCube37
+    2300294: pCube38
+    2300296: pCube39
+    2300298: pCube8
+    2300300: pCube9
+    2300302: pCylinder27
+    2300304: pCylinder27 1
+    2300306: pCylinder27 2
+    2300308: pCylinder27 3
+    2300310: pCylinder28
+    2300312: pCylinder28 1
+    2300314: pCylinder28 2
+    2300316: pCylinder28 3
+    2300318: pCylinder29
+    2300320: pCylinder29 1
+    2300322: pCylinder29 2
+    2300324: pCylinder29 3
+    2300326: pipe_ring_lower
+    2300328: pipe_ring_upper
+    2300330: pipes 1
+    2300332: pipes 10
+    2300334: pipes 11
+    2300336: pipes 12
+    2300338: pipes 13
+    2300340: pipes 14
+    2300342: pipes 15
+    2300344: pipes 16
+    2300346: pipes 2
+    2300348: pipes 3
+    2300350: pipes 4
+    2300352: pipes 5
+    2300354: pipes 6
+    2300356: pipes 7
+    2300358: pipes 8
+    2300360: pipes 9
+    2300362: platform_lower
+    2300364: platform_upper
+    2300366: polySurface100
+    2300368: polySurface101
+    2300370: polySurface102
+    2300372: polySurface104
+    2300374: polySurface16
+    2300376: polySurface17
+    2300378: polySurface33
+    2300380: polySurface93
+    2300382: polySurface95
+    2300384: polySurface97
+    2300386: polySurface98
+    2300388: polySurface99
+    2300390: pPlane1
+    2300392: pPlane10
+    2300394: pPlane11
+    2300396: pPlane12
+    2300398: pPlane13
+    2300400: pPlane14
+    2300402: pPlane15
+    2300404: pPlane16
+    2300406: pPlane17
+    2300408: pPlane18
+    2300410: pPlane19
+    2300412: pPlane2
+    2300414: pPlane2 1
+    2300416: pPlane2 2
+    2300418: pPlane20
+    2300420: pPlane20 1
+    2300422: pPlane20 2
+    2300424: pPlane21
+    2300426: pPlane21 1
+    2300428: pPlane21 2
+    2300430: pPlane22
+    2300432: pPlane22 1
+    2300434: pPlane22 2
+    2300436: pPlane22 3
+    2300438: pPlane23
+    2300440: pPlane23 1
+    2300442: pPlane23 2
+    2300444: pPlane23 3
+    2300446: pPlane3
+    2300448: pPlane3 1
+    2300450: pPlane3 2
+    2300452: pPlane4
+    2300454: pPlane5
+    2300456: pPlane6
+    2300458: pPlane7
+    2300460: pPlane8
+    2300462: pPlane9
+    2300464: pTorus10
+    2300466: pTorus11
+    2300468: pTorus12
+    2300470: pTorus5
+    2300472: pTorus9
+    2300474: rails_lower
+    2300476: rails_upper
+    2300478: rubber_seal
+    2300480: rubber_seal 1
+    2300482: rubber_seal 10
+    2300484: rubber_seal 11
+    2300486: rubber_seal 12
+    2300488: rubber_seal 13
+    2300490: rubber_seal 14
+    2300492: rubber_seal 15
+    2300494: rubber_seal 2
+    2300496: rubber_seal 3
+    2300498: rubber_seal 4
+    2300500: rubber_seal 5
+    2300502: rubber_seal 6
+    2300504: rubber_seal 7
+    2300506: rubber_seal 8
+    2300508: rubber_seal 9
+    2300510: screen
+    2300512: screen 1
+    2300514: screen 10
+    2300516: screen 11
+    2300518: screen 12
+    2300520: screen 13
+    2300522: screen 14
+    2300524: screen 15
+    2300526: screen 2
+    2300528: screen 3
+    2300530: screen 4
+    2300532: screen 5
+    2300534: screen 6
+    2300536: screen 7
+    2300538: screen 8
+    2300540: screen 9
+    2300542: stair_steps2
+    3300000: base
+    3300002: base 1
+    3300004: base 10
+    3300006: base 11
+    3300008: base 12
+    3300010: base 13
+    3300012: base 14
+    3300014: base 15
+    3300016: base 2
+    3300018: base 3
+    3300020: base 4
+    3300022: base 5
+    3300024: base 6
+    3300026: base 7
+    3300028: base 8
+    3300030: base 9
+    3300032: canisters
+    3300034: canisters 1
+    3300036: canisters 10
+    3300038: canisters 11
+    3300040: canisters 12
+    3300042: canisters 13
+    3300044: canisters 14
+    3300046: canisters 15
+    3300048: canisters 2
+    3300050: canisters 3
+    3300052: canisters 4
+    3300054: canisters 5
+    3300056: canisters 6
+    3300058: canisters 7
+    3300060: canisters 8
+    3300062: canisters 9
+    3300064: center_cone_lower
+    3300066: center_cone_upper
+    3300068: emblem
+    3300070: emblem 1
+    3300072: emblem 10
+    3300074: emblem 11
+    3300076: emblem 12
+    3300078: emblem 13
+    3300080: emblem 14
+    3300082: emblem 15
+    3300084: emblem 2
+    3300086: emblem 3
+    3300088: emblem 4
+    3300090: emblem 5
+    3300092: emblem 6
+    3300094: emblem 7
+    3300096: emblem 8
+    3300098: emblem 9
+    3300100: glass_dome
+    3300102: glass_dome 1
+    3300104: glass_dome 10
+    3300106: glass_dome 11
+    3300108: glass_dome 12
+    3300110: glass_dome 13
+    3300112: glass_dome 14
+    3300114: glass_dome 15
+    3300116: glass_dome 2
+    3300118: glass_dome 3
+    3300120: glass_dome 4
+    3300122: glass_dome 5
+    3300124: glass_dome 6
+    3300126: glass_dome 7
+    3300128: glass_dome 8
+    3300130: glass_dome 9
+    3300132: human_sizeref
+    3300134: metal_parts
+    3300136: metal_parts 1
+    3300138: metal_parts 10
+    3300140: metal_parts 11
+    3300142: metal_parts 12
+    3300144: metal_parts 13
+    3300146: metal_parts 14
+    3300148: metal_parts 15
+    3300150: metal_parts 2
+    3300152: metal_parts 3
+    3300154: metal_parts 4
+    3300156: metal_parts 5
+    3300158: metal_parts 6
+    3300160: metal_parts 7
+    3300162: metal_parts 8
+    3300164: metal_parts 9
+    3300166: pCone1
+    3300168: pCone1 1
+    3300170: pCone1 2
+    3300172: pCone1 3
+    3300174: pCone2
+    3300176: pCone2 1
+    3300178: pCone2 2
+    3300180: pCone2 3
+    3300182: pCube10
+    3300184: pCube11
+    3300186: pCube12
+    3300188: pCube12 1
+    3300190: pCube12 2
+    3300192: pCube12 3
+    3300194: pCube14
+    3300196: pCube14 1
+    3300198: pCube14 2
+    3300200: pCube14 3
+    3300202: pCube15
+    3300204: pCube15 1
+    3300206: pCube15 2
+    3300208: pCube15 3
+    3300210: pCube16
+    3300212: pCube16 1
+    3300214: pCube16 2
+    3300216: pCube16 3
+    3300218: pCube17
+    3300220: pCube17 1
+    3300222: pCube17 2
+    3300224: pCube17 3
+    3300226: pCube18
+    3300228: pCube18 1
+    3300230: pCube18 2
+    3300232: pCube18 3
+    3300234: pCube19
+    3300236: pCube19 1
+    3300238: pCube19 2
+    3300240: pCube19 3
+    3300242: pCube20
+    3300244: pCube20 1
+    3300246: pCube20 2
+    3300248: pCube20 3
+    3300250: pCube21
+    3300252: pCube21 1
+    3300254: pCube21 2
+    3300256: pCube21 3
+    3300258: pCube22
+    3300260: pCube22 1
+    3300262: pCube22 2
+    3300264: pCube22 3
+    3300266: pCube24
+    3300268: pCube25
+    3300270: pCube26
+    3300272: pCube27
+    3300274: pCube28
+    3300276: pCube29
+    3300278: pCube30
+    3300280: pCube31
+    3300282: pCube32
+    3300284: pCube33
+    3300286: pCube34
+    3300288: pCube35
+    3300290: pCube36
+    3300292: pCube37
+    3300294: pCube38
+    3300296: pCube39
+    3300298: pCube8
+    3300300: pCube9
+    3300302: pCylinder27
+    3300304: pCylinder27 1
+    3300306: pCylinder27 2
+    3300308: pCylinder27 3
+    3300310: pCylinder28
+    3300312: pCylinder28 1
+    3300314: pCylinder28 2
+    3300316: pCylinder28 3
+    3300318: pCylinder29
+    3300320: pCylinder29 1
+    3300322: pCylinder29 2
+    3300324: pCylinder29 3
+    3300326: pipe_ring_lower
+    3300328: pipe_ring_upper
+    3300330: pipes 1
+    3300332: pipes 10
+    3300334: pipes 11
+    3300336: pipes 12
+    3300338: pipes 13
+    3300340: pipes 14
+    3300342: pipes 15
+    3300344: pipes 16
+    3300346: pipes 2
+    3300348: pipes 3
+    3300350: pipes 4
+    3300352: pipes 5
+    3300354: pipes 6
+    3300356: pipes 7
+    3300358: pipes 8
+    3300360: pipes 9
+    3300362: platform_lower
+    3300364: platform_upper
+    3300366: polySurface100
+    3300368: polySurface101
+    3300370: polySurface102
+    3300372: polySurface104
+    3300374: polySurface16
+    3300376: polySurface17
+    3300378: polySurface33
+    3300380: polySurface93
+    3300382: polySurface95
+    3300384: polySurface97
+    3300386: polySurface98
+    3300388: polySurface99
+    3300390: pPlane1
+    3300392: pPlane10
+    3300394: pPlane11
+    3300396: pPlane12
+    3300398: pPlane13
+    3300400: pPlane14
+    3300402: pPlane15
+    3300404: pPlane16
+    3300406: pPlane17
+    3300408: pPlane18
+    3300410: pPlane19
+    3300412: pPlane2
+    3300414: pPlane2 1
+    3300416: pPlane2 2
+    3300418: pPlane20
+    3300420: pPlane20 1
+    3300422: pPlane20 2
+    3300424: pPlane21
+    3300426: pPlane21 1
+    3300428: pPlane21 2
+    3300430: pPlane22
+    3300432: pPlane22 1
+    3300434: pPlane22 2
+    3300436: pPlane22 3
+    3300438: pPlane23
+    3300440: pPlane23 1
+    3300442: pPlane23 2
+    3300444: pPlane23 3
+    3300446: pPlane3
+    3300448: pPlane3 1
+    3300450: pPlane3 2
+    3300452: pPlane4
+    3300454: pPlane5
+    3300456: pPlane6
+    3300458: pPlane7
+    3300460: pPlane8
+    3300462: pPlane9
+    3300464: pTorus10
+    3300466: pTorus11
+    3300468: pTorus12
+    3300470: pTorus5
+    3300472: pTorus9
+    3300474: rails_lower
+    3300476: rails_upper
+    3300478: rubber_seal
+    3300480: rubber_seal 1
+    3300482: rubber_seal 10
+    3300484: rubber_seal 11
+    3300486: rubber_seal 12
+    3300488: rubber_seal 13
+    3300490: rubber_seal 14
+    3300492: rubber_seal 15
+    3300494: rubber_seal 2
+    3300496: rubber_seal 3
+    3300498: rubber_seal 4
+    3300500: rubber_seal 5
+    3300502: rubber_seal 6
+    3300504: rubber_seal 7
+    3300506: rubber_seal 8
+    3300508: rubber_seal 9
+    3300510: screen
+    3300512: screen 1
+    3300514: screen 10
+    3300516: screen 11
+    3300518: screen 12
+    3300520: screen 13
+    3300522: screen 14
+    3300524: screen 15
+    3300526: screen 2
+    3300528: screen 3
+    3300530: screen 4
+    3300532: screen 5
+    3300534: screen 6
+    3300536: screen 7
+    3300538: screen 8
+    3300540: screen 9
+    3300542: stair_steps2
+    4300000: platform_upper
+    4300002: human_sizeref
+    4300004: rails_upper
+    4300006: rails_lower
+    4300008: pPlane1
+    4300010: pPlane6
+    4300012: pPlane7
+    4300014: pPlane8
+    4300016: pPlane9
+    4300018: pPlane10
+    4300020: pPlane11
+    4300022: pPlane12
+    4300024: pPlane13
+    4300026: pPlane14
+    4300028: pPlane15
+    4300030: pPlane4
+    4300032: pPlane5
+    4300034: pPlane2
+    4300036: pPlane3
+    4300038: pPlane2
+    4300040: pPlane3
+    4300042: pPlane2
+    4300044: pPlane3
+    4300046: pPlane16
+    4300048: pPlane17
+    4300050: pPlane18
+    4300052: pPlane19
+    4300054: pPlane20
+    4300056: pPlane20
+    4300058: pPlane20
+    4300060: pPlane21
+    4300062: pPlane21
+    4300064: pPlane21
+    4300066: pPlane22
+    4300068: pPlane23
+    4300070: pPlane22
+    4300072: pPlane23
+    4300074: pPlane22
+    4300076: pPlane23
+    4300078: pPlane22
+    4300080: pPlane23
+    4300082: polySurface104
+    4300084: platform_lower
+    4300086: pCube10
+    4300088: pCube11
+    4300090: pCube9
+    4300092: pCube8
+    4300094: polySurface98
+    4300096: pTorus5
+    4300098: pTorus9
+    4300100: pTorus10
+    4300102: pTorus11
+    4300104: pTorus12
+    4300106: pipe_ring_upper
+    4300108: pipe_ring_lower
+    4300110: polySurface99
+    4300112: polySurface33
+    4300114: polySurface97
+    4300116: polySurface16
+    4300118: polySurface95
+    4300120: polySurface17
+    4300122: polySurface93
+    4300124: polySurface100
+    4300126: polySurface101
+    4300128: polySurface102
+    4300130: pCylinder28
+    4300132: pCylinder27
+    4300134: pCylinder29
+    4300136: pCube18
+    4300138: pCube19
+    4300140: pCone2
+    4300142: pCube14
+    4300144: pCube15
+    4300146: pCube20
+    4300148: pCube21
+    4300150: pCube22
+    4300152: pCube12
+    4300154: pCube16
+    4300156: pCube17
+    4300158: pCone1
+    4300160: pCylinder28
+    4300162: pCylinder27
+    4300164: pCylinder29
+    4300166: pCube18
+    4300168: pCube19
+    4300170: pCone2
+    4300172: pCube14
+    4300174: pCube15
+    4300176: pCube20
+    4300178: pCube21
+    4300180: pCube22
+    4300182: pCube12
+    4300184: pCube16
+    4300186: pCube17
+    4300188: pCone1
+    4300190: pCylinder28
+    4300192: pCylinder27
+    4300194: pCylinder29
+    4300196: pCube18
+    4300198: pCube19
+    4300200: pCone2
+    4300202: pCube14
+    4300204: pCube15
+    4300206: pCube20
+    4300208: pCube21
+    4300210: pCube22
+    4300212: pCube12
+    4300214: pCube16
+    4300216: pCube17
+    4300218: pCone1
+    4300220: pCylinder28
+    4300222: pCylinder27
+    4300224: pCylinder29
+    4300226: pCube18
+    4300228: pCube19
+    4300230: pCone2
+    4300232: pCube14
+    4300234: pCube15
+    4300236: pCube20
+    4300238: pCube21
+    4300240: pCube22
+    4300242: pCube12
+    4300244: pCube16
+    4300246: pCube17
+    4300248: pCone1
+    4300250: pCube24
+    4300252: pCube27
+    4300254: pCube28
+    4300256: pCube29
+    4300258: pCube30
+    4300260: pCube31
+    4300262: pCube32
+    4300264: pCube33
+    4300266: pCube26
+    4300268: pCube25
+    4300270: pCube34
+    4300272: pCube35
+    4300274: pCube36
+    4300276: pCube37
+    4300278: pCube38
+    4300280: pCube39
+    4300282: stair_steps2
+    4300284: center_cone_upper
+    4300286: center_cone_lower
+    4300288: base
+    4300290: metal_parts
+    4300292: pipes
+    4300294: rubber_seal
+    4300296: canisters
+    4300298: glass_dome
+    4300300: screen
+    4300302: emblem
+    4300304: base
+    4300306: metal_parts
+    4300308: pipes
+    4300310: rubber_seal
+    4300312: canisters
+    4300314: glass_dome
+    4300316: screen
+    4300318: emblem
+    4300320: base
+    4300322: metal_parts
+    4300324: pipes
+    4300326: rubber_seal
+    4300328: canisters
+    4300330: glass_dome
+    4300332: screen
+    4300334: emblem
+    4300336: base
+    4300338: metal_parts
+    4300340: pipes
+    4300342: rubber_seal
+    4300344: canisters
+    4300346: glass_dome
+    4300348: screen
+    4300350: emblem
+    4300352: base
+    4300354: metal_parts
+    4300356: pipes
+    4300358: rubber_seal
+    4300360: canisters
+    4300362: glass_dome
+    4300364: screen
+    4300366: emblem
+    4300368: base
+    4300370: metal_parts
+    4300372: pipes
+    4300374: rubber_seal
+    4300376: canisters
+    4300378: glass_dome
+    4300380: screen
+    4300382: emblem
+    4300384: base
+    4300386: metal_parts
+    4300388: pipes
+    4300390: rubber_seal
+    4300392: canisters
+    4300394: glass_dome
+    4300396: screen
+    4300398: emblem
+    4300400: base
+    4300402: metal_parts
+    4300404: pipes
+    4300406: rubber_seal
+    4300408: canisters
+    4300410: glass_dome
+    4300412: screen
+    4300414: emblem
+    4300416: base
+    4300418: metal_parts
+    4300420: pipes
+    4300422: rubber_seal
+    4300424: canisters
+    4300426: glass_dome
+    4300428: screen
+    4300430: emblem
+    4300432: base
+    4300434: metal_parts
+    4300436: pipes
+    4300438: rubber_seal
+    4300440: canisters
+    4300442: glass_dome
+    4300444: screen
+    4300446: emblem
+    4300448: base
+    4300450: metal_parts
+    4300452: pipes
+    4300454: rubber_seal
+    4300456: canisters
+    4300458: glass_dome
+    4300460: screen
+    4300462: emblem
+    4300464: base
+    4300466: metal_parts
+    4300468: pipes
+    4300470: rubber_seal
+    4300472: canisters
+    4300474: glass_dome
+    4300476: screen
+    4300478: emblem
+    4300480: base
+    4300482: metal_parts
+    4300484: pipes
+    4300486: rubber_seal
+    4300488: canisters
+    4300490: glass_dome
+    4300492: screen
+    4300494: emblem
+    4300496: base
+    4300498: metal_parts
+    4300500: pipes
+    4300502: rubber_seal
+    4300504: canisters
+    4300506: glass_dome
+    4300508: screen
+    4300510: emblem
+    4300512: base
+    4300514: metal_parts
+    4300516: pipes
+    4300518: rubber_seal
+    4300520: canisters
+    4300522: glass_dome
+    4300524: screen
+    4300526: emblem
+    4300528: base
+    4300530: metal_parts
+    4300532: pipes
+    4300534: rubber_seal
+    4300536: canisters
+    4300538: glass_dome
+    4300540: screen
+    4300542: emblem
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cables6
+    second: {fileID: 2100000, guid: 968f4e14fa63949039ae9bfe3081e341, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cables8
+    second: {fileID: 2100000, guid: a7fbf9abd9230427599ac37f572c23c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cables9
+    second: {fileID: 2100000, guid: 5936776d025334bda91071b611f1b524, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: center_cylinder_lower
+    second: {fileID: 2100000, guid: be56d207435974a8d9cc2d627fed5890, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: center_cylinder_upper
+    second: {fileID: 2100000, guid: 0a3986acca10a4e09abba7b5a9f43251, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: doors1
+    second: {fileID: 2100000, guid: f3adc0e17f73e426ab37a04ac6ca5a54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor
+    second: {fileID: 2100000, guid: 30fbbb1c0026543c8974b0fc884686c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grabby_arms1
+    second: {fileID: 2100000, guid: 6390c8ec1925947c99516d9c088e05af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hanging_cables_4
+    second: {fileID: 2100000, guid: 7fac43fc90be74932b86e5b99f3d1bc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: human_stand_in
+    second: {fileID: 2100000, guid: e010881b82a6f46cd8b3f31432fc9ac9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_partss
+    second: {fileID: 2100000, guid: 0aefd228113aa4269841cf38166360d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: outer_wall1
+    second: {fileID: 2100000, guid: 00ef9d16c249449d3a9ca9f6ad1e2cfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pipes_lower
+    second: {fileID: 2100000, guid: 580f15ea5ef954cce87648960b538586, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pipes_upper
+    second: {fileID: 2100000, guid: f43af13c2c83d414a807351b70704528, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pod_base1
+    second: {fileID: 2100000, guid: 46657139ddd3e40499d2b78667fed8f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pod_canisters
+    second: {fileID: 2100000, guid: 7c437caf507d3468ea9fea7d9487739a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pod_emblem
+    second: {fileID: 2100000, guid: 3c5dd9bc81dd34e50866fa71467e06c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pod_glass_dome
+    second: {fileID: 2100000, guid: 9aa6c478896a84815aa496b5c196b1f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pod_pipes
+    second: {fileID: 2100000, guid: 6ad8d8d585010409abb6a1a118f9d9c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pod_rubber_seal
+    second: {fileID: 2100000, guid: 7e078056bcb974cfc9de6edfccbd28c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pod_screen_normal
+    second: {fileID: 2100000, guid: 267af2410f2994eac875c6a43d247484, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pod_screen_warning
+    second: {fileID: 2100000, guid: 19c0921733be440e197144db8f13294c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: railings
+    second: {fileID: 2100000, guid: 7b5b527a70b994be9bb058981fbf3e2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screens1
+    second: {fileID: 2100000, guid: 22b03a71646d049ab88a3972d64a5624, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stair_steps
+    second: {fileID: 2100000, guid: 1a2a0e0dc53944a9883c783848c436d7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
