@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.caltopiav2.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\projects\\Terrafuse\\Caltopia v2\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Caltopia v2 [Testing]"
+        }
+      }
+    }
+  ]
+}
